@@ -1,4 +1,4 @@
-local PLUGIN_NAME = "myplugin"
+local PLUGIN_NAME = "aws-api-gateway-auth"
 
 
 -- helper function to validate data against a schema
